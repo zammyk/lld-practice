@@ -1,6 +1,8 @@
 package symbols;
 
-public enum Symbol {
-    O,
-    X
+public abstract class Symbol {
+    SymbolType symbolType;
+    Symbol(SymbolType symbolType) {
+        this.symbolType = symbolType;
+    }
 }

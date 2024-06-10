@@ -1,7 +1,7 @@
 package symbols;
 
-public class SymbolO extends ISymbol {
-    SymbolO() {
-        super(Symbol.O);
+public class SymbolO extends Symbol {
+    public SymbolO() {
+        super(SymbolType.O);
     }
 }
