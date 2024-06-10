@@ -1,4 +1,4 @@
-package symbols;
+package tictactoe.symbols;
 
 public abstract class Symbol {
     SymbolType symbolType;

@@ -1,5 +1,7 @@
-import symbols.SymbolO;
-import symbols.SymbolX;
+package tictactoe;
+
+import tictactoe.symbols.SymbolO;
+import tictactoe.symbols.SymbolX;
 
 import java.util.List;
 import java.util.Objects;

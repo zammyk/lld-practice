@@ -1,4 +1,6 @@
-import symbols.Symbol;
+package tictactoe;
+
+import tictactoe.symbols.Symbol;
 
 public class Player {
     private final String name;

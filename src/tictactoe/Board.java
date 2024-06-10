@@ -1,4 +1,6 @@
-import symbols.Symbol;
+package tictactoe;
+
+import tictactoe.symbols.Symbol;
 
 import java.util.Objects;
 

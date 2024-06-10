@@ -1,4 +1,4 @@
-package symbols;
+package tictactoe.symbols;
 
 public class SymbolO extends Symbol {
     public SymbolO() {
