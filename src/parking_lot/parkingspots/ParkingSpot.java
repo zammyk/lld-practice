@@ -9,4 +9,10 @@ public abstract class ParkingSpot {
         this.cost = cost;
         this.parkingSpotType = parkingSpotType;
     }
+    public int getId() {
+        return id;
+    }
+    public void free() {
+        this.isTaken = false;
+    }
 }
