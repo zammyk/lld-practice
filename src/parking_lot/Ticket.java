@@ -20,4 +20,7 @@ public class Ticket {
     public ParkingSpotType getParkingSpotType() {
         return parkingSpotType;
     }
+    public int getParkingSpotId() {
+        return parkingSpotId;
+    }
 }
